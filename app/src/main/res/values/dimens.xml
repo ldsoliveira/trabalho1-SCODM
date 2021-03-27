@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="inputDefaultSize">200dp</dimen>
+    <dimen name="defaultMargin">15dp</dimen>
+    <dimen name="loginButtonSize">150dp</dimen>
+    <dimen name="marginBottomLoginBtn">50dp</dimen>
+    <dimen name="marginLeftLoginBtn">30dp</dimen>
+    <dimen name="imageViewSize">200dp</dimen>
+</resources>
